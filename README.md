@@ -1,0 +1,13 @@
+- Lógica
+- Git
+- Github
+- Estrutura e Operadores
+- Variáveis
+- Introdução ao JavaScript
+- Node.js
+- Lógica aplicada
+- Condicional avançado
+- While / loop
+- For
+- String
+- Array
